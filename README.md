@@ -1,1 +1,1 @@
-# Optimization Algorithms implementation in Matlap/Octave
+# Optimization Algorithms implementation in Matlab/Octave
